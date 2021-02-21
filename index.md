@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-minimal
+title: Welcome to my Homepage
+description: Check out my blogs on my market portfolio
 
 You can use the [editor on GitHub](https://github.com/WaltreblA/Testing../edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
